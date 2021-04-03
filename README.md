@@ -1,5 +1,11 @@
-# desafio-conceitos-reac
+# To-do List
 
-Curso Ignite - Rocketseat
+## 💬  Sobre
+To-do list completa para facilitar na gestão de tarefas do dia a dia.
 
-O trabalho aqui foi desenvolver uma to-do list com React e aprender as principais caracteristicas da manipulação de estados.
+## 🧐 Aprendizado
+Compreender as principais caracteristicas da manipulação de estados.
+
+## Preview
+
+<img src="./public/challenge2.gif">
